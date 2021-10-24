@@ -1,0 +1,36 @@
+.about_container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  font-family: "Work Sans", sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  margin-top: 1rem;
+}
+.title_container {
+  width: 60%;
+  margin-left: 1.5rem;
+}
+.title-section {
+  color: black;
+  font-size: 2rem;
+  margin-bottom: 0.5 rem;
+  font-weight: 500;
+  line-height: 1.2;
+}
+.divider {
+  display: block;
+  margin-top: 16px;
+  margin-bottom: 32px;
+  width: 32px;
+  height: 3px;
+  border-radius: 40px;
+  background-color: #399747;
+}
+.param-section {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  line-height: 1.5;
+  font-weight: 400;
+  font-size: larger;
+}
