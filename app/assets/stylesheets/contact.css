@@ -1,0 +1,28 @@
+.background {
+  background-image: url("https://images.unsplash.com/photo-1584931423298-c576fda54bd2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 92vh;
+  width: 100%;
+}
+
+.blur {
+  backdrop-filter: blur(7px);
+  background: rgb(0 0 0 / 60%);
+  height: 92vh;
+  width: 100%;
+}
+.sub-params {
+  color: #fff;
+}
+.details-section {
+  flex-direction: column;
+  text-align: center;
+  padding-top: 12rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+  font-family: "Work Sans", sans-serif;
+  line-height: 2;
+  font-size: 1.5rem;
+}
