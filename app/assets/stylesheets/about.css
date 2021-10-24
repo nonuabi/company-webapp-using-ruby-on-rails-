@@ -25,7 +25,8 @@
   width: 32px;
   height: 3px;
   border-radius: 40px;
-  background-color: #399747;
+  /* background-color: #399747; */
+  background-color: black;
 }
 .param-section {
   margin-top: 0;
